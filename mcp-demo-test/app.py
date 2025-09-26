@@ -4,7 +4,7 @@ import os
 import sys
 
 # Initialize the MCP server
-mcp = FastMCP("GitHelper")
+mcp = FastMCP("GitHelper5")
 
 # Configuration - make this configurable
 REPO_PATH = r"C:\Users\shubu\Desktop\MCP"  # your repo path
